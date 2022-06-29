@@ -1,3 +1,6 @@
 .Slider {
     height: 400px;
 }
+.slider2 {
+    align-self: start;
+}
